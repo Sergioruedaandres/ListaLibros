@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=ListaLibros
+comment0.text=\n\ Lista\ de\ libro\ de\ una\ biblioteca\n\ \n\ @author\ Sergio\ y\ Pablo\n\ @version\ (1.1)\n
+comment1.params=
+comment1.target=ListaLibros()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ ListaNodos\n
+comment2.params=valor
+comment2.target=void\ pon(Libro)
+comment2.text=\n\ Completar\ los\ metodos\n\n\ Incluye\ un\ nuevo\ libro\ en\ la\ lista\n
+comment3.params=
+comment3.target=boolean\ estaVacia()
+comment4.params=id
+comment4.target=Libro\ quitar(int)
+comment4.text=\n\ \ \ \ \ Devuelve\ un\ libro\ que\ es\ eliminado\ de\ la\ lista\ o\ null\ si\ no\ exite\n
+comment5.params=titulo
+comment5.target=int\ buscarId(java.lang.String)
+comment5.text=\n\n\ \nDevuelve\ el\ id\ del\ libro\ o\ -1\ si\ no\ esta\n
+comment6.params=
+comment6.target=void\ verCatalogo()
+comment6.text=\n\ Muestra\ los\ libros\ almacenados\n
+numComments=7
